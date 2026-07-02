@@ -1,0 +1,10 @@
+torch>=1.12
+numpy
+nibabel
+opencv-python
+scipy
+scikit-image
+medpy
+pandas
+tensorboardX
+tqdm
